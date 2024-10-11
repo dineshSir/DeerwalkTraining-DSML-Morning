@@ -1,0 +1,4 @@
+Results of Numbers analysis:
+----------------------------
+Sum: 145107
+Average: 483.69

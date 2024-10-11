@@ -1,0 +1,5 @@
+The analysis summary:
+-------------------------
+Number of letters: 140
+Number of digits: 10
+Number of other characters: 37

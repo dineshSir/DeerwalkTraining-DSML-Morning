@@ -1,0 +1,6 @@
+
+Hello world! This is a simple text.
+It contains some vowels, consonants, words, and lines.
+Python programming is fun.
+You can perform various operations using Python.
+Contact: 9860027857
